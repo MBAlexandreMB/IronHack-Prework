@@ -1,0 +1,252 @@
+body{
+	margin: 0;
+	font-family: sans-serif;
+	font-size: 10px;
+}
+
+.clearfix {
+	clear: both;
+}
+
+nav {
+	background-color: #C12127;
+	color: rgba(255,255,255,0.8);
+	padding-top: 15px;
+	height: 15px;
+	line-height: 2px;
+	font-size: 1.2em;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.top-left {
+	float: left;
+	margin: 0 20px;
+}
+
+.heart {
+	margin: 0 15px 0 0;
+}
+
+header {
+	background-color: rgb(32, 101, 136);
+	background-image: url("images/city-scape.svg");
+	color: white;
+}
+
+#npm-logo {
+	width: auto;
+	height: 50px;
+	margin: 15px 20px;
+	float: left;
+}
+
+#form-package-search {
+	display: inline-block;
+}
+
+.package-search {
+	background-color: rgb(31, 82, 111);
+	border: 1px solid rgba(45, 117, 159, 0.8);
+	font-size: 1.7em;
+	color: rgba(255, 255, 255, 0.8);
+	float: left;
+	margin-top: 15px;
+}
+
+.pst {
+	width: 65vw;	
+	padding: 15px 10px;
+}
+
+.psb {
+	width: 60px;
+	padding: 14px 10px 15px;
+}
+
+#ul-sign-up {
+	float: right;
+	margin: 15px 20px 0 0;
+	padding: 0;
+}
+
+#ul-sign-up a {
+	text-decoration: none;
+	color: rgba(255,255,255,0.7);
+}
+
+#ul-sign-up li {
+	display: inline-block;
+	font-size: 1.6em;
+	color: rgba(255,255,255,0.7);
+}
+
+#text-sign-up {
+	position: relative;
+	top: -20px;
+}
+
+#bear-logo {
+	width: auto;
+	height: 50px;
+}
+
+.header-content {
+	width: 40%;
+	margin: 0 auto 0 15%; 
+}
+
+h1 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	letter-spacing: 8px;
+	font-size: 4.5em;
+}
+
+.text {
+	font-size: 1.7em;
+}
+
+#header-button {
+	background-color: rgb(240, 146, 51);
+	border-radius: 20px;
+	border: none;
+	color: rgba(255, 255, 255, 0.8);
+	padding: 10px 30px;
+	margin-bottom: 90px;
+	font-size: 1.8em;
+}
+
+#orgs {
+	height: 500px;
+	background-color: rgb(39, 53, 71);
+	color: white;
+}
+
+#orgs a {
+	text-decoration: none;
+	color: white;
+}
+
+h2 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	letter-spacing: 5px;
+	font-size: 4em;
+	margin: 0;
+}
+
+#orgs-content {
+	width: 1200px;
+	margin: 0 auto 0 180px;
+
+}
+
+#collaboration-image {
+	width: auto;
+	height: 300px;
+	float: left;
+	margin: 100px 55px 100px 0;
+}
+
+#collaboration-text-box {
+	float: left;
+	height: 300px;
+	margin-top: 90px;
+}
+
+.collaboration-ul {
+	margin: 0 0 20px 0;
+}
+
+.collaboration-li {
+	line-height: 2em;
+}
+
+#orgs-button {
+	background-color: rgb(203, 56, 55);
+	border-radius: 20px;
+	border: none;
+	color: rgba(255, 255, 255, 0.8);
+	padding: 10px 30px;
+	font-size: 1.8em;
+}
+
+#description {
+	background-image: url("images/forklift.svg");
+	background-size: 100% 450px;
+	color: white;
+	height: 450px;
+}
+
+#description-content {
+	width: 350px;
+	margin: 0 auto 0 180px;
+	padding-top: 90px;
+}
+
+#description-button {
+	background-color: rgb(49, 68, 88);
+	border-radius: 20px;
+	border: none;
+	color: rgba(255, 255, 255, 0.8);
+	padding: 10px 30px;
+	font-size: 1.8em;
+}
+
+#footer {
+	background-color: white;
+}
+
+#footer a {
+	color: rgb(208, 74, 73);
+	text-decoration: none;
+}
+
+#footer-header {
+	margin: 0 auto;
+	text-align: center;
+}
+
+h3 {
+	color: rgb(83, 88, 98);
+	font-size: 4em;
+}
+
+.footer-title {
+	color: rgb(83, 88, 98);
+	font-size: 1.6em;
+}
+
+.footer-text {
+	color: rgb(135, 145, 156);
+	font-size: 1.6em;
+}
+
+#footer-articles-content {
+	width: 1170px;
+	margin: 0 auto;
+}
+
+.footer-article {
+	width: 250px;
+	margin: 20px 70px 50px;
+	float: left;
+	text-align: center
+}
+
+
+
